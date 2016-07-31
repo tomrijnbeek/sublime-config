@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Function Name Display",
+		"GitHub Flavored Markdown Preview",
+		"Gutter Color",
+		"HTML5",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"LaTeX Word Count",
+		"LaTeXTools",
+		"LESS",
+		"LineEndings",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"PhpDoc",
+		"Pretty JSON",
+		"SASS Build",
+		"SCSS",
+		"SCSS Compiler",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Theme - Gravity",
+		"Todo",
+		"WordCount"
+	]
+}
